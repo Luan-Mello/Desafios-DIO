@@ -1,10 +1,13 @@
 **Classificador de Nível de Herói 🚀**
+
 Este projeto é um desafio proposto pela Digital Innovation One (DIO), utilizando JavaScript para aplicar lógica condicional com base na quantidade de XP de um herói.
 
 **💡 Descrição do Desafio**
+
 Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar a mensagem de acordo com a tabela de níveis.
 
 **🧪 Níveis:**
+
 Ferro: XP < 1.000
 
 Bronze: XP entre 1.001 e 2.000
